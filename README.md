@@ -21,11 +21,11 @@ Get the last or last n elements in an array.
 
 #### For Development
 ```js
-<script src=""></script>
+<script src="https://rawgit.com/Prosen-Ghosh/last-element/master/last.js"></script>
 ```
 #### For Production
 ```js
-<script src=""></script>
+<script src="https://cdn.rawgit.com/Prosen-Ghosh/last-element/5c22c2c2/last.js"></script>
 ```
 
 ## Usage
