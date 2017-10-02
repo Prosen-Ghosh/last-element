@@ -1,7 +1,7 @@
 {
   "name": "last-element",
-  "version": "1.0.0",
-  "description": "Get the last or last n elements in an array.",
+  "version": "1.0.1",
+  "description": "Get the last element in an array.",
   "main": "last.js",
   "scripts": {
     "test": "mocha",

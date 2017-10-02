@@ -1,5 +1,5 @@
 # last-element
-Get the last or last n elements in an array.
+Get the last element in an array.
 
 ![npm](https://img.shields.io/npm/v/last-element.svg) ![license](https://img.shields.io/npm/l/last-element.svg) ![github-issues](https://img.shields.io/github/issues/Prosen-Ghosh/last-element.svg) 
 
